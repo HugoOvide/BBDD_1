@@ -19,3 +19,7 @@ Un usuario tiene una colección de discos y puede tener una lista de deseos.
 Un álbum puede estar compuesto por varias canciones.
 Las canciones pueden pertenecer a más de un álbum.
 Un usuario puede realizar ventas y evaluaciones de otros usuarios.
+
+### Documentación detallada de los objetos del diagrama y los supuestos semánticos considerados.
+
+Dentro del sistema podemos encontrar los diferentes objetos del diagrama:
