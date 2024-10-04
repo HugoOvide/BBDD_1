@@ -23,3 +23,4 @@ Un usuario puede realizar ventas y evaluaciones de otros usuarios.
 ### Documentación detallada de los objetos del diagrama y los supuestos semánticos considerados.
 
 Dentro del sistema podemos encontrar los diferentes objetos del diagrama:
+### Restricciones capturadas. 
