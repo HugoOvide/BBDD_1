@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.7.17">
   <diagram name="Página-1" id="pNtj-E5VUR7fUzYblgED">
-    <mxGraphModel dx="2341" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1530" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,9 +243,6 @@
         <mxCell id="ofEIxsK4Rl22Wb2tiuf6-8" value="Fecha de&lt;div&gt;Lanzamiento&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="230" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ofEIxsK4Rl22Wb2tiuf6-9" value="Género&lt;div&gt;Musical&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="818.5" y="190" width="53" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ofEIxsK4Rl22Wb2tiuf6-10" value="URL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="170" width="33" height="20" as="geometry" />
         </mxCell>
@@ -255,10 +252,10 @@
             <mxPoint x="790" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ofEIxsK4Rl22Wb2tiuf6-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ofEIxsK4Rl22Wb2tiuf6-82" target="ofEIxsK4Rl22Wb2tiuf6-9">
+        <mxCell id="ofEIxsK4Rl22Wb2tiuf6-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.018;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ofEIxsK4Rl22Wb2tiuf6-82" target="ofEIxsK4Rl22Wb2tiuf6-97">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="784" y="130" as="sourcePoint" />
-            <mxPoint x="834" y="80" as="targetPoint" />
+            <mxPoint x="840" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ofEIxsK4Rl22Wb2tiuf6-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.94;exitY=0.163;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="ofEIxsK4Rl22Wb2tiuf6-78" target="ofEIxsK4Rl22Wb2tiuf6-8">
@@ -486,12 +483,6 @@
         <mxCell id="ofEIxsK4Rl22Wb2tiuf6-85" value="&lt;b&gt;1:1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" y="400" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ofEIxsK4Rl22Wb2tiuf6-86" value="&lt;b&gt;1:1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="190" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ofEIxsK4Rl22Wb2tiuf6-87" value="&lt;b&gt;1:1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="200" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ofEIxsK4Rl22Wb2tiuf6-88" value="&lt;b&gt;1:1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="723.5" y="440" width="40" height="30" as="geometry" />
         </mxCell>
@@ -518,6 +509,12 @@
               <mxPoint x="130" y="324" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ofEIxsK4Rl22Wb2tiuf6-96" value="Género&lt;div&gt;Musical&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="190" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ofEIxsK4Rl22Wb2tiuf6-97" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="185" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
